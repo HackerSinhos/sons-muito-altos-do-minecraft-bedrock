@@ -5,7 +5,7 @@ OS SONS SÃO MUITO ALTOS ENTÃO TOME CUIDADO AO UTILIZAR ESTA TEXTURA!!! (eu só
 
 # Como aplicar o mod!
 
-**Primeiramente baixe o arquivo .mcpack do versão mais recente do mod neste link** [aqui](https://github.com/HackerSinhos/sons-muito-altos-do-minecraft-bedrock/releases/)
+**Primeiramente baixe o arquivo .mcpack da versão mais recente do mod neste link** [aqui](https://github.com/HackerSinhos/sons-muito-altos-do-minecraft-bedrock/releases/)
 
 ## Android
 ![Como aplicar](https://f.feridinha.com/v0lhk.gif)
