@@ -24,5 +24,5 @@ Os melhores jeitos de testar o mod nos consoles:
 2. Abra o cmd no windows ou o terminal no linux e execute os comandos a seguir:
 <pre><code>git clone https://github.com/HackerSinhos/sons-muito-altos-do-minecraft-bedrock
 cd sons-muito-altos-do-minecraft-bedrock
-build.cmd<pre></code>
+build.cmd</code></pre>
 O código do arquivo 'build.cmd' vai criar o arquivo "sons-muito-altos.mcpack" automaticamente.
