@@ -4,7 +4,7 @@ mytitle="Fazendo o arquivo .mcpack ..."
 echo -e '\033]2;'$mytitle'\007'
 
 if ! command -v 7z >/dev/null 2>&1; then
-    echo "Error: 7z command not found."
+    echo "Erro, comando 7z não encontrado."
     exit 1
 fi
 
