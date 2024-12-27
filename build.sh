@@ -8,19 +8,21 @@ if ! command -v 7z >/dev/null 2>&1; then
     exit 1
 fi
 
-7z a sons-muito-altos-addon.mcpack
+7z a sons-muito-altos-addon.zip
 
 if [ -d ".git" ]; then
-    7z d sons-muito-altos-addon.mcpack .git
-    7z d sons-muito-altos-addon.mcpack build.cmd
-    7z d sons-muito-altos-addon.mcpack 7z.exe
-    7z d sons-muito-altos-addon.mcpack README.md
-    7z d build.sh
-    7z d .gitignore
+    7z d sons-muito-altos-addon.zip .git
+    7z d sons-muito-altos-addon.zip build.cmd
+    7z d sons-muito-altos-addon.zip 7z.exe
+    7z d sons-muito-altos-addon.zip README.md
+    7z d sons-muito-altos-addon.zip build.sh
+    7z d sons-muito-altos-addon.zip .gitignore
+    mv sons-muito-altos-addon.zip sons-muito-altos-addon.mcpack
 else
-    7z d sons-muito-altos-addon.mcpack build.cmd
-    7z d sons-muito-altos-addon.mcpack 7z.exe
-    7z d sons-muito-altos-addon.mcpack README.md
-    7z d build.sh
-    7z d .gitignore
+    7z d sons-muito-altos-addon.zip build.cmd
+    7z d sons-muito-altos-addon.zip 7z.exe
+    7z d sons-muito-altos-addon.zip README.md
+    7z d sons-muito-altos-addon.zip build.sh
+    7z d sons-muito-altos-addon.zip .gitignore
+    mv sons-muito-altos-addon.zip sons-muito-altos-addon.mcpack
 fi
