@@ -4,7 +4,7 @@
         "description": "TODOS os sons MUITO ALTOS!",
         "name": "SONS ALTOS!",
         "uuid": "4c32ee48-d90a-432c-88d2-c0927f413344",
-        "version": [0, 1, 0],
+        "version": [1, 0, 0],
         "min_engine_version": [ 1, 21, 50 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "TODOS os sons MUITO ALTOS!",
             "type": "resources",
             "uuid": "2afc909e-1f8a-4e6a-b378-0c40bafaecde",
-            "version": [0, 1, 0]
+            "version": [1, 0, 0]
         }
     ]
 }
