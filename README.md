@@ -1,5 +1,10 @@
 # Sons MUITOO ALTOOOSSS do Minecraft Bedrock
 Essa é uma textura que aumenta MUITO os sons do Minecraft bedrock!
+
+
+![](https://img.shields.io/github/downloads/HackerSinhos/sons-muito-altos-do-minecraft-bedrock/total?style=for-the-badge&color=%23c90e0e
+)
+
 ## AVISO!!!
 OS SONS SÃO MUITO ALTOS ENTÃO TOME CUIDADO AO UTILIZAR ESTA TEXTURA!!! (Eu só perdi minha audição porque usei fone de ouvido para testar '-')
 
